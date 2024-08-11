@@ -1,11 +1,17 @@
-<a href="https://github.com/aamohamedfahim">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Mohamed+Fahim;Generative+AI+Developer+%7C+AI+Student;AI+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Bots&color=2ea44f" alt="Typing SVG" />
-</a>
+<p align="center">
+    <a href="https://github.com/aamohamedfahim">
+        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Mohamed+Fahim;Generative+AI+Developer+%7C+AI+Student;AI+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Bots&color=2ea44f" alt="Typing SVG" />
+    </a>
+</p>
 
 </br>
-<a href="https://github.com/aamohamedfahim">
-    <img src="https://github-stats-alpha.vercel.app/api?username=aamohamedfahim&cc=22272e&tc=2ea44f&ic=fff&bc=0000">
-</a>
+
+<p align="center">
+    <a href="https://github.com/aamohamedfahim">
+        <img src="https://github-stats-alpha.vercel.app/api?username=aamohamedfahim&cc=22272e&tc=2ea44f&ic=fff&bc=0000">
+    </a>
+</p>
+
 
 - 🌱 I’m currently learning **Generative AI || ML || DL**
 
