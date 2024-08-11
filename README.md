@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/aamohamedfahim">
-        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Mohamed+Fahim;Generative+AI+Developer+%7C+AI+Student;AI+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Bots&color=2ea44f" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Mohamed+Fahim;Generative+AI+Developer+%7C+AI+Student;AI+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Bots&color=1f77b4" alt="Typing SVG" />
     </a>
 </p>
 
@@ -8,9 +8,10 @@
 
 <p align="center">
     <a href="https://github.com/aamohamedfahim">
-        <img src="https://github-stats-alpha.vercel.app/api?username=aamohamedfahim&cc=22272e&tc=2ea44f&ic=fff&bc=0000">
+        <img src="https://github-stats-alpha.vercel.app/api?username=aamohamedfahim&cc=22272e&tc=ffdd57&ic=1f77b4&bc=0000">
     </a>
 </p>
+
 
 
 - 🌱 I’m currently learning **Generative AI || ML || DL**
@@ -39,4 +40,6 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aamohamedfahim&" alt="aamohamedfahim" /></p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aamohamedfahim&background=22272e&border=666&ring=1f77b4&fire=ffdd57&currStreakLabel=1f77b4&sideLabels=1f77b4&sideNums=ffdd57&dates=ffdd57" alt="aamohamedfahim" />
+</p>
